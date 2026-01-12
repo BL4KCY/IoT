@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-auth-service",
+  "version": "1.0.0",
+  "description": "Enterprise-grade authentication service for e-commerce marketplace. Supports email/password authentication, Google OAuth 2.0 integration, JWT token management, refresh token rotation, and secure session handling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mustapha elfersioui",
+  "license": "MIT"
+}
